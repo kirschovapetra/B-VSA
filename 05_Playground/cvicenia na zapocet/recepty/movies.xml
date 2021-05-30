@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sluzby>
+    <streamSluzba>
+        
+        <film dostupnost="ano">
+            <rok>2019</rok>
+            <meno>Witcher</meno>        
+        </film>
+       
+        <film dostupnost="nie">
+            <meno>Dark</meno>        
+            <zaner>sci fi</zaner>
+        </film>
+        <film dostupnost="nie">
+            <meno>Casper</meno>        
+            <rok>2003</rok>
+            <zaner>rozpravka</zaner>
+        </film>
+        <film dostupnost="ano">
+            <rok>2002</rok>
+            <meno>Witcher</meno>        
+        </film>
+        <meno>Netflix</meno>
+        <film dostupnost="ano">
+            <zaner>Light</zaner>
+            <rok>2016</rok>
+            <meno>Horror</meno>        
+        </film>
+        <film>
+            
+            <zaner>rozpravka</zaner>
+            <meno>Sword art online</meno>        
+        </film>
+    </streamSluzba>
+    <streamSluzba>
+        
+        <film dostupnost="ano">
+            <zaner>fantasy</zaner>
+            <rok a="b">2012</rok>   
+            <meno>Game of Thrones</meno>        
+        </film>
+        <film dostupnost="nie">
+            <meno>Aladdin</meno>        
+            <rok>2019</rok>
+            <zaner>rozpravka</zaner>
+        </film>
+        <film dostupnost="nie">
+            <meno>Harry potter 3</meno>        
+            <rok>2013</rok>
+            <zaner>fantasy</zaner>
+        </film>
+        <film dostupnost="ano">
+            <rok>2028</rok>
+            <zaner>akcny</zaner>
+            <meno>Mission impossible</meno>        
+        </film>
+        <meno>HBO GO</meno>
+    </streamSluzba>
+</sluzby>

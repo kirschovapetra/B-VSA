@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knihkupectvo>
+    <kniha edicia="Stopy">
+        <autor>May</autor>
+        <cena>4.0</cena>
+        <meno>Vinetou</meno>        
+    </kniha>
+    <kniha edicia="Stopy">
+        <cena>5.0</cena>
+        <autor>May</autor>
+        <meno>Pustou</meno>        
+    </kniha>
+</knihkupectvo>

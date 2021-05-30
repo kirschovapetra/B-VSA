@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<streamSluzba>
+    <film dostupnost="ano">
+        <zaner>fantasy</zaner>
+        <rok a="b">2012</rok>   
+        <meno>Game of Thrones</meno>        
+    </film>
+    <film dostupnost="nie">
+        <meno>Aladdin</meno>        
+        <rok>2019</rok>
+        <zaner>rozpravka</zaner>
+    </film>
+    <film dostupnost="nie">
+        <meno>Harry potter 3</meno>        
+        <rok>2013</rok>
+        <zaner>fantasy</zaner>
+    </film>
+    <film dostupnost="ano">
+        <rok>2008</rok>
+        <zaner>akcny</zaner>
+        <meno>Mission impossible</meno>        
+    </film>
+    <meno>HBO GO</meno>
+</streamSluzba>
+<streamSluzba>
+    <film dostupnost="nie">
+        <meno>Casper</meno>        
+        <rok>2013</rok>
+        <zaner>rozpravka</zaner>
+    </film>
+    <film dostupnost="ano">
+        <rok>2019</rok>
+        <meno>Witcher</meno>        
+    </film>
+    <film dostupnost="nie">
+        <meno>Dark</meno>        
+        <zaner>sci fi</zaner>
+    </film>
+    <meno>Netflix</meno>
+    <film dostupnost="nie">
+        <meno>Casper2</meno>        
+        <rok>2023</rok>
+        <zaner>rozpravka</zaner>
+    </film>
+    <film dostupnost="ano">
+        <zaner>Horror</zaner>
+        <rok>2016</rok>
+        <meno>Light</meno>        
+    </film>
+    <film>
+        <rok>2042</rok>
+        <zaner>rozpravka</zaner>
+        <meno>Sword art online</meno>        
+    </film>
+</streamSluzba>
+<streamSluzba>
+    <film dostupnost="ano">
+        <zaner>fantasy</zaner>
+        <rok a="b">2012</rok>   
+        <meno>Game of Thrones</meno>        
+    </film>
+    <film dostupnost="ano">
+        <meno>Aladdin</meno>        
+        <rok>2019</rok>
+        <zaner>fantasy</zaner>
+    </film>
+    <film dostupnost="nie">
+        <meno>Harry potter 3</meno>        
+        <rok>2013</rok>
+        <zaner>fantasy</zaner>
+    </film>
+    <film dostupnost="ano">
+        <rok>2008</rok>
+        <zaner>fantasy</zaner>
+        <meno>Mission impossible</meno>        
+    </film>
+    <meno>HBO GO</meno>
+</streamSluzba>
+<streamSluzba>
+    <film dostupnost="ano">
+        <zaner>fantasy</zaner>
+        <rok a="b">2012</rok>   
+        <meno>Game of Thrones</meno>        
+    </film>
+    <film dostupnost="nie">
+        <meno>Aladdin</meno>        
+        <rok>2019</rok>
+        <zaner>rozpravka</zaner>
+    </film>
+    <film dostupnost="ano">
+        <meno>Harry potter 3</meno>        
+        <rok>2013</rok>
+        <zaner>fantasy</zaner>
+    </film>
+    <film dostupnost="ano">
+        <rok>2008</rok>
+        <zaner>akcny</zaner>
+        <meno>Mission impossible</meno>        
+    </film>
+    <meno>HBO GO</meno>
+</streamSluzba>
+</root>
